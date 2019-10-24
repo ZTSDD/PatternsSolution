@@ -1,0 +1,7 @@
+﻿  BuilderExample.cpp
+  DomainController.cpp
+  SecuritySettings.cpp
+  WebServer.cpp
+  WebServerBuilder.cpp
+  Создание кода...
+  BuilderExample.vcxproj -> D:\Projects\PatternsSolution\PatternsSolution\x64\Debug\BuilderExample.exe
