@@ -6,7 +6,7 @@ class CarsRepository
 {
 private:
 	static CarsRepository carsRepository;
-	std::vector<Car*> carPrototypes[];
+	std::vector<Car*> carPrototypes;
 	CarsRepository();
 public:
 	Car& GetById(int);

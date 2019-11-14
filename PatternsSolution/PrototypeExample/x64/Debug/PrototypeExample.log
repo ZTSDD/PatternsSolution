@@ -1,2 +1,6 @@
-﻿  PrototypeExample.cpp
+﻿  Car.cpp
+  CarsRepository.cpp
+  Color24.cpp
+  PrototypeExample.cpp
+  Создание кода...
   PrototypeExample.vcxproj -> D:\Projects\PatternsSolution\PatternsSolution\x64\Debug\PrototypeExample.exe
